@@ -1,5 +1,5 @@
 name: clean_arc
-description: A starting point for Dart libraries or applications.
+description: It is a tool to create clean architecture modules structure folders.
 version: 1.0.0
 homepage: https://github.com/ArielFarias/clean-arc
 
