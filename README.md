@@ -6,6 +6,7 @@
 
 * Install using the following command:
 `dart pub global activate clean_arc`
+* On Windows you might need to add your %USERPROFILE%\Local\Pub\Cache\bin to Path environment variables in order to run direct from command line using `clean_arc`.
 
 ## Usage
 
