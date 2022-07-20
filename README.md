@@ -16,24 +16,17 @@ know whether this package might be useful for them.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+* It is a tool to create clean architecture modules structure folders.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+* Install using the following command:
+`dart pub global activate clean_arc`
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
+* Run the command: `clean_arc create --module="awesome_module"`
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+* This package was created based on clean architeture folder structure for Flutter projects. You can learn more in https://medium.flutterdevs.com/explore-clean-architecture-in-flutter-3fff83e0f1f2. Thanks for using!
